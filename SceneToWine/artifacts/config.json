@@ -1,0 +1,10 @@
+{
+  "n_wines_indexed": 1250,
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "embedding_dim": 384,
+  "price_model": "LightGBM (TF-IDF unigram+bigram with price-stopword scrub, top-50 variety OHE, top-20 country OHE, top-50 province OHE, points, wine_age)",
+  "vision_model": "claude-sonnet-4-6",
+  "vibe_profile_model": "claude-haiku-4-5-20251001",
+  "explanation_model": "claude-haiku-4-5-20251001",
+  "retrieval_eval_macro_p5": 0.9666666666666667
+}

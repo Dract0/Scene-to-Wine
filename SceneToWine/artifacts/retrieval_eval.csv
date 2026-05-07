@@ -1,0 +1,13 @@
+case_id,precision_at_5,n_retrieved,top_varieties
+cozy_winter_fireplace,1.0,5,"Malbec, Merlot, Syrah, Malbec, Red Blend"
+sunny_outdoor_brunch,1.0,5,"Rosé, Sparkling Blend, Rosé, Riesling, Pinot Gris"
+formal_business_dinner,1.0,5,"Chardonnay, Malvasia, White Blend, Pinot Noir, Rosé"
+summer_pool_party,1.0,5,"Rosé, Rosé, Pinot Grigio, Sparkling Blend, Sauvignon Blanc"
+intimate_date_night,0.8,5,"Syrah, Cabernet Sauvignon, Nebbiolo, Rosé, Pinot Noir"
+fall_picnic,1.0,5,"Rosé, Rosé, Rosé, Babić, Sangiovese"
+rooftop_bar_evening,1.0,5,"Pinot Noir, Pinot Noir, Pinot Gris, Cabernet Sauvignon, Chardonnay"
+rustic_italian_kitchen,1.0,5,"Red Blend, Agiorgitiko, Red Blend, Red Blend, Vermentino"
+celebration_birthday,0.8,5,"Champagne Blend, Malbec, Rosé, Chardonnay, Sangiovese"
+quiet_book_evening,1.0,5,"Sauvignon Blanc, Pinot Noir, Riesling, Vidal Blanc, Pinot Grigio"
+beach_seafood_lunch,1.0,5,"Pinot Grigio, Chardonnay, Sauvignon Blanc, Riesling, Malvasia"
+thanksgiving_dinner,1.0,5,"Bordeaux-style Red Blend, Sangiovese, Pinot Noir, Cabernet Sauvignon, Rosé"

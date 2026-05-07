@@ -1,0 +1,4 @@
+model,MAE_$,RMSE_$,R2_log
+Baseline (variety mean),15.784,30.139,0.2
+Ridge (TF-IDF + OHE + age),11.463,22.927,0.617
+LightGBM (TF-IDF + OHE + age),10.381,20.731,0.684
