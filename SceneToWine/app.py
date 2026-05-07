@@ -47,7 +47,8 @@ def _resolve_api_key():
 @st.cache_resource(show_spinner="Loading recommender (one-time, ~30s)…")
 def load_recommender():
     from pipeline import WineRecommender
-    return WineRecommender(artifacts_dir="artifacts")
+    app_dir = Path(__file__).resolve().parent
+    return WineRecommender(artifacts_dir=app_dir / "artifacts")
 
 
 # ============================================================================
